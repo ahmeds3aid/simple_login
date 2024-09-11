@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "792762598305",
+    "project_id": "simpel-auth-bb819",
+    "storage_bucket": "simpel-auth-bb819.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792762598305:android:14b7cade2bf0f5a69b81e0",
+        "android_client_info": {
+          "package_name": "com.example.simple_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK_ZNAPZs82WiyMvVJP8D14rcCRAFC1K4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
